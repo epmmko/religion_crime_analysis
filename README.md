@@ -354,6 +354,9 @@
 
 <div class="input">
 
+![Figure 1](2010_s_all_crime.png)
+![Figure 2](2010_h_all_crime.png)
+
 <div class="prompt input_prompt">In [ ]:</div>
 
 <div class="inner_cell">
@@ -465,6 +468,10 @@
 
 </div>
 
+![Figure 3](2010_s_murder.png)
+![Figure 4](2010_h_murder.png)
+
+
 <div class="cell border-box-sizing text_cell rendered">
 
 <div class="inner_cell">
@@ -482,6 +489,10 @@ Therefore, the number of people who have a certain religion does not correlate t
 </div>
 
 </div>
+
+![Figure 5](AllGraph_Assignment4_submitted.png)
+
+
 
 <div class="cell border-box-sizing text_cell rendered">
 
